@@ -8,5 +8,5 @@
 
  
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saralvra)](https://github.com/anuraghazra/github-readme-stats)  <img src="https://user-images.githubusercontent.com/85768323/130165038-49cd2012-623c-446d-9265-17e73d371756.png" width="190" height="190"> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=saralvra&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>  <img src="https://user-images.githubusercontent.com/85768323/130165038-49cd2012-623c-446d-9265-17e73d371756.png" width="180" height="180"> 
 ![Snake animation](https://github.com/saralvra/saralvra/blob/output/github-contribution-grid-snake.svg)
