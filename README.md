@@ -1,10 +1,4 @@
-### Oi! :smiling_face_with_three_hearts:             Seja Bem-Vind@! Eu sou a Sara :ribbon:
 
-:ribbon: Estudo JAVA na <a href="https://cursos.alura.com.br/user/sara-ferreira-lara"> Alura<a/> 
-  
-:ribbon: Programa EduTECH
-
-:ribbon: Futura Analista de Sistemas
 
  
  
